@@ -1,5 +1,23 @@
 h1{
     color: red;
-    font-size: 50em;
-    font: optional;
+}
+ 
+.special{
+    list-style-type: square;
+}
+
+li span{
+    color: red;
+}
+a:link{
+    color: greenyellow;
+    font-weight: bold;
+}
+a:visited{
+    color: rebeccapurple;
+}
+a:hover{
+    text-decoration: none;
+    text-transform: uppercase;
+    
 }
